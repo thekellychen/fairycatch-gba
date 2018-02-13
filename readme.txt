@@ -1,6 +1,8 @@
 ** TINKER BELL ~ FAIRY CATCH **
+
 Author: Kelly Chen
-Version: 1.0
+
+GBA game in C.
 
 Objective: To hit the Neverbeast with the flower as fast as possible
 
